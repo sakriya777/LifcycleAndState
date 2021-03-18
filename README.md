@@ -1,2 +1,2 @@
 # Activity and intent
-<img src="" width="350" alt-text="image">
+<img src="images/aa.gif" width="350" alt-text="image">
